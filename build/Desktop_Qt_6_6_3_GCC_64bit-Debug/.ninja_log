@@ -1,0 +1,15 @@
+# ninja log v5
+1	68	1715208829587545366	build.ninja	3005d9e598b7acfa
+0	14	1715208829607547036	HeroGame_autogen/timestamp	cc4b3870d0a5e4a1
+0	14	1715208829607547036	HeroGame_autogen/mocs_compilation.cpp	cc4b3870d0a5e4a1
+0	14	1715208829607547036	/home/daniel/School/cppGame/HeroGame/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HeroGame_autogen/timestamp	cc4b3870d0a5e4a1
+0	14	1715208829607547036	/home/daniel/School/cppGame/HeroGame/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HeroGame_autogen/mocs_compilation.cpp	cc4b3870d0a5e4a1
+14	23	1715208829619548037	CMakeFiles/HeroGame.dir/HeroGame_autogen/mocs_compilation.cpp.o	773c72a1219e1a62
+14	760	1715208830355609281	CMakeFiles/HeroGame.dir/main.cpp.o	3c0bd2bb749ac1be
+760	840	1715208830431615584	HeroGame	6281101aba4faf7e
+0	7	1715208845872834216	HeroGame_autogen/timestamp	cc4b3870d0a5e4a1
+0	7	1715208845872834216	HeroGame_autogen/mocs_compilation.cpp	cc4b3870d0a5e4a1
+0	7	1715208845872834216	/home/daniel/School/cppGame/HeroGame/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HeroGame_autogen/timestamp	cc4b3870d0a5e4a1
+0	7	1715208845872834216	/home/daniel/School/cppGame/HeroGame/build/Desktop_Qt_6_6_3_GCC_64bit-Debug/HeroGame_autogen/mocs_compilation.cpp	cc4b3870d0a5e4a1
+7	795	1715208846660893104	CMakeFiles/HeroGame.dir/main.cpp.o	3c0bd2bb749ac1be
+795	896	1715208846760900568	HeroGame	6281101aba4faf7e
